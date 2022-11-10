@@ -1,0 +1,26 @@
+My Framework(module) kiton js. It contains many functions and classes for web development.
+Purpose of my Framework:
+1. To make it easier for developers who are not use to writing long code. So i wrote functions for javascript developers to make use of.
+2. It says time.
+3. I developed it not only for developers to make use of it but also for me to have experience developing frameworks.
+
+How to use it:
+Step 1:
+If you want to import the code first set the type attribute in your script tag to module e.g <script type="module" src="index.js></script>
+Step 2:
+In your index js file to import it they are 2 ways 
+first:you can import part of the code for example
+import {changeMe, print} from "./kiton.js"; //add the relative file path
+since no alias name look at how you will use the kotin js
+let name = "bro"; //you will just use the name and the function since no alias
+print(name);
+output > bro
+
+second:To import everything
+import * as k from "./kiton.js"; //you can give an alias name for it and to use it if you give an alias name look below
+e.g
+let name = "bro";
+k.print(name); // first write the alias name then full stop for you to access the function and classes
+output > bro
+
+Written by Your Faviourite programmer Which is Me Kingsley
