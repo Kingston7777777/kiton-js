@@ -1,0 +1,14 @@
+{
+  "name": "kingsto",
+  "version": "1.1.0",
+  "description": "A node module for web development",
+  "main": "kiton.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kingsto"
+  ],
+  "author": "Kingsley",
+  "license": "ISC"
+}
