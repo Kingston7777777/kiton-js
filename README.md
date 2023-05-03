@@ -1,6 +1,6 @@
 # kingsto-js
 
-## I developed my Javascript Modules called kiton js
+## I developed my Javascript Modules called kingsto js
 My Framework(module) kingsto js. It contains many functions and classes for web development.
 
 ## Purpose of my Framework:
